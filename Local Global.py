@@ -1,13 +1,12 @@
-#Declare a variable and initialize it
+#Declare variable and initialize it
 f = 101
 print(f)
 
-#Global vs. local variables in functions
+#Global vs. local variables in fuctions
 def someFunction():
-#global f
-    f = 'testing 123'
+    f = 'Testing 1...2...3...' #Local variable inside the function, assumes local scope
     print(f)
 
-
 someFunction()
-print(f)
+
+print(f) #global varable, local variable was destroyed
