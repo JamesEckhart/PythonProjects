@@ -18,3 +18,5 @@ if __name__ == '__main__':
 
 print(8 * "\n")
 print("test", end = ' @')
+print(5 * '\n')
+print("added a commit message")
