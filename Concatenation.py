@@ -1,3 +1,4 @@
 a = "Guru"
 b = 99
-print(a + str(b))
+c= ' '
+print(a + c + str(b))
