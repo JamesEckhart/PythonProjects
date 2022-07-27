@@ -1,4 +1,4 @@
 a = "Guru"
 b = 99
-c= ' '
-print(a + c + str(b))
+x = ' '
+print(a + x + str(b))
