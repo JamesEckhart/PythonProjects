@@ -9,4 +9,4 @@ def someFunction():
 
 someFunction()
 
-print(f) #global varable, local variable was destroyed!
+print(f) #global varable, local variable was destroyed!!
