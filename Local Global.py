@@ -1,5 +1,5 @@
 #Declare variable and initialize it
-f = 101
+f = 200
 print(f)
 
 #Global vs. local variables in fuctions
@@ -8,5 +8,4 @@ def someFunction():
     print(f)
 
 someFunction()
-
 print(f) #global varable, local variable was destroyed!!
