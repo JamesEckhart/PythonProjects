@@ -1,4 +1,4 @@
-f = 101;
+f = 100;
 print(f)
 
 #Global vs. Local variables in functions
