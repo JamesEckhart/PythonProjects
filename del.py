@@ -1,5 +1,3 @@
-f = 11;
-print(f)
+i = 11;
+print(i)
 
-del f
-print(f)

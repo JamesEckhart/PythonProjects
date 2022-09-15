@@ -3,7 +3,7 @@ print(f)
 
 #Global vs. local variables in fuctions
 def someFunction():
-    global f #see global varaiable inside fuction
+    global f #see global varaiable inside fuction!
     print (f)
     f = "changing global variable"
 
