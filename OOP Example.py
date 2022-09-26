@@ -5,5 +5,5 @@ mccoy = {"Leonard McCoy", "Chief Medical Officer", 2266}
 x = kirk[0]
 print(x)
 
-y = kirk[1]
-print(y)
+z = kirk[1]
+print(z)
